@@ -9,4 +9,6 @@ Structured Query Language (SQL) is used to analyse the data and given recommenda
 ## Data Set and Database Creation:
 The dataset in Excel format can be downloaded below. This file contains the tables and the ERD diagram to help you understand the relationship between those tables. Study the ERD closely so that you get an initial understanding of the relations and how data from different tables can be joined.
 
+
+
 ![download (1)](https://github.com/Saloni-Meshram/RSVP-Movies-Data-Analysis-SQL-Study/assets/136232688/e15961fc-ae4d-4a69-84ec-77bab05b87e1)
