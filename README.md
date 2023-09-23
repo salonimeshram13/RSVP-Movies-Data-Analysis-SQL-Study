@@ -7,7 +7,7 @@ The production company wants to plan every move analytically based on data. We h
 Structured Query Language (SQL) is used to analyse the data and given recommendations to RSVP Movies based on insights. The analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables.
 
 ## Data Set and Database Creation:
-The dataset in Excel format can be downloaded below. This file contains the tables and the ERD diagram to help you understand the relationship between those tables. Study the ERD closely so that you get an initial understanding of the relations and how data from different tables can be joined.
+The dataset in Excel format can be downloaded below. This file contains the tables and the ERD diagram to help you understand the relationship between those tables. Study the ERD closely so that you get an initial understanding of the relations and how data from different tables can be joined .
 
 
 
